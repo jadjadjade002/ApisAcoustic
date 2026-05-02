@@ -2,3 +2,4 @@ dataset/
 *.rar
 *.wav
 *.zip
+*.env
