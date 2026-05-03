@@ -3,3 +3,5 @@ dataset/
 *.wav
 *.zip
 *.env
+*.pth
+*.pt
