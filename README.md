@@ -1,4 +1,4 @@
-🐝 ApisAcoustic: Queen Bee Acoustic Monitoring
+# 🐝 ApisAcoustic: Queen Bee Acoustic Monitoring
 
 An AI-powered bioacoustic monitoring system to detect the state of beehives ("Active" vs "Missing Queen") using audio classification.
 
