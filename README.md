@@ -44,3 +44,23 @@ AI-BIOACOUSTIC-BEE/
 ├── .gitignore                # Ignores large files like *.pth, *.zip, and raw datasets
 ├── ApisAcoustic_V1.0.ipynb   # Main Jupyter Notebook containing the ML Pipeline
 ├── README.md                 # Project documentation
+```
+## ⚙️ How to Run
+### 1. Clone the Repository
+Clone the project to your local machine and navigate to the directory:
+
+`git clone [https://github.com/jadjadjade002/ApisAcoustic.git](https://github.com/jadjadjade002/ApisAcoustic.git)`
+`cd ApisAcoustic`
+
+### 2. Install Dependencies
+`pip install torch torchaudio pandas numpy scikit-learn transformers librosa matplotlib seaborn python-dotenv tqdm`
+ 
+### 3. Configure Environment Variables
+Create a .env file in the root directory and add your Hugging Face authentication token to access the pre-trained AST model:
+`HF_TOKEN=your_hugging_face_token_here`
+
+5. Run the Pipeline
+- Open the project in VS Code (or Jupyter Notebook).
+- Open the ApisAcoustic_V1.0.ipynb file.
+- Important: Select the Python kernel from the virtual environment you created in Step 2.
+- Run all cells sequentially. The script will automatically scan the dataset folder, slice the audio files, extract features, and train the model.
