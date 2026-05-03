@@ -27,8 +27,8 @@ The model achieves highly accurate and balanced results on the perfectly split t
 | **Missing Queen (1)** | 0.95 | 0.94 | 0.95 | 6,690 |
 
 ### Confusion Matrix
-*(Note: Upload your confusion matrix image to GitHub and replace this text with the image link, e.g., `![Confusion Matrix](<img width="662" height="552" alt="output" src="https://github.com/user-attachments/assets/8a08f08d-c592-48f6-8788-8910e46d6c2b" />
-)`)*
+<img width="662" height="552" alt="output" src="https://github.com/user-attachments/assets/029f4c36-bc32-47a8-8939-eadb7dd0be87" />
+
 
 ## Tech Stack
 - **Deep Learning:** PyTorch, Torchaudio
