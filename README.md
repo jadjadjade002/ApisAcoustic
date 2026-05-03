@@ -27,7 +27,7 @@ The model achieves highly accurate and balanced results on the perfectly split t
 | **Missing Queen (1)** | 0.95 | 0.94 | 0.95 | 6,690 |
 
 ### Confusion Matrix
-<img width="662" height="552" alt="output" src="https://github.com/user-attachments/assets/029f4c36-bc32-47a8-8939-eadb7dd0be87" />
+<img width="552" height="442" alt="output" src="https://github.com/user-attachments/assets/029f4c36-bc32-47a8-8939-eadb7dd0be87" />
 
 
 ## Tech Stack
