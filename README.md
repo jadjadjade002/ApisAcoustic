@@ -50,7 +50,8 @@ AI-BIOACOUSTIC-BEE/
 ### 1. Clone the Repository
 Clone the project to your local machine and navigate to the directory:
 
-`git clone [https://github.com/jadjadjade002/ApisAcoustic.git](https://github.com/jadjadjade002/ApisAcoustic.git)`
+`git clone [https://github.com/jadjadjade002/ApisAcoustic.git]`
+
 `cd ApisAcoustic`
 
 ### 2. Install Dependencies
